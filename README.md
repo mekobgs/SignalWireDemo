@@ -1,6 +1,6 @@
 # 📞 SignalWire IVR (.NET 8 + cXML)
 
-An interactive voice response (IVR) system built with **.NET 8 Minimal API** and **SignalWire cXML** scripts.  
+An interactive voice response (IVR) system built with **.NET 8 WebAPI** and **SignalWire cXML** scripts.  
 This project demonstrates how to manage multi-level voice menus, collect DTMF input, and navigate between menus using simple XML-based responses.
 
 ---
